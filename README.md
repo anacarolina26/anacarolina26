@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @anacarolina26
+* Sobre Mim   
+   
+   
+   
+   - 👋 Hi, I’m @anacarolina26
 - 👀 I’m interested in ...nada
 - 🌱 I’m currently learning ...entrar no github
 - 💞️ I’m looking to collaborate on ..não quero colaborar em nada nesse momento
